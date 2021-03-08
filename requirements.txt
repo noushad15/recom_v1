@@ -1,2 +1,7 @@
 pandas
 requests
+scikit-learn==0.24.1
+subprocess
+django==3.1.5
+djangorestframework==3.12.2
+numpy==1.19.5
